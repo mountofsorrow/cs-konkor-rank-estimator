@@ -1,7 +1,9 @@
 # Konkor CS Rank Estimator
 
 this project predicts **Computer Science Konkor ranks** based on user entered subject percentages using a **machine learning model**
+
 it consists of a flutter frontend & a fastapi backend that serves ml predictions
+
 it needs couple of adjustments & fixes for both back + front (idk when i be back on those)
 
 ## how to Run:
