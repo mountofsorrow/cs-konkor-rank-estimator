@@ -4,7 +4,7 @@ this project predicts **Computer Science Konkor ranks** based on user entered su
 
 it consists of a flutter frontend & a fastapi backend that serves ml predictions
 
-it needs couple of adjustments & fixes for both back + front (idk when i be back on those)
+it needs couple of adjustments & fixes for both back + front (idk when i'll be back on those)
 
 ## how to Run:
 
